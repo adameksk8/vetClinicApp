@@ -42,7 +42,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\"customerId\":\"1234\",\r\n\"customerPin\":\"1111\",\r\n\"doctorId\":\"1\",\r\n\"appointmentDateTime\":\"2021-01-03T02:35:58\"\r\n}",
+					"raw": "{\r\n    \"customerId\": \"0002\",\r\n    \"customerPin\": \"0202\",\r\n    \"doctorId\": \"1\",\r\n    \"appointmentDateTime\": \"2021-01-03T03:35:00\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
